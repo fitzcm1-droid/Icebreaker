@@ -1,10 +1,10 @@
 public class Next {
-public static void main (String [] args) {
-System.out.println ("Hello World");
-int numerics;
-numerics = 123456;
+    public static void main (String [] args) {
+      System.out.println ("Hello World");
+        int numerics;
+        numerics = 123456;
 
-  System.out.print("I have ");
-  System.out.println("a good feeling.");
-}
+        System.out.print("I have ");
+        System.out.println("a good feeling.");
+    }
 }
