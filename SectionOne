@@ -6,5 +6,6 @@ public class Next {
 
         System.out.print("I have ");
         System.out.println("a good feeling.");
+        System.out.println(numerics);
     }
 }
